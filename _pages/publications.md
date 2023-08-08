@@ -3,6 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from: 
+  - /pubs
+  - /pubs.html
+  - /publications
+  - /publications.html
 ---
 
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> <i>(* for co-first author)</i>
