@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cen Zhang / Webpage"
+title                    : "Cen Zhang's (张岑) Homepage"
 title_separator          : "-"
 name                     : &name "Cen Zhang"
 description              : &description "personal description"
