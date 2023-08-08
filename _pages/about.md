@@ -14,7 +14,7 @@ I am a fourth-year Ph.D student at the School of Computer Science and Engineerin
 
 My Ph.D works mainly center around building tools for detecting software vulnerabilities, including the **Fuzz Driver Generation**, **Firmware Rehosting**, and **Binary Instrumentation**.
 They worked by enabling the fuzz testing on the targets that cannot be effectively applied before.
-In the near future, I plan to explore more possibilities on vulnerability detection, such as modeling new kinds of vulnerbilities, exploring LLM-assisted approaches, etc.
+In the near future, I plan to explore more possibilities on **vulnerability detection**, such as modeling new kinds of vulnerbilities, exploring LLM-assisted approaches, etc.
 In the long run, I'm eager to build more cool things!
 
 Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysren) since March 2023, and also working as Project Co-Investigator for some projects.
@@ -29,3 +29,24 @@ Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysr
 - April 2023: Our paper "Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation" is accepted by IEEE S&P 2023.
 - October 2022: Our paper "Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation" is accepted by Usenix Security 2023.
 - April 2022: Our paper "Efficient Greybox Fuzzing of Applications in Linux-based IoT Devices via Enhanced User-mode Emulation" is accepted by ISSTA 2022.
+
+---
+
+<div class="footer">
+  <table align="center">
+        <!--
+         style="display: none"
+         //www.clustrmaps.com/map_v2.png?d=c0iE23T-kE1Z77RydQ1UoeK1VAiMMSYMmQ2R2rgt6Mk&cl=ffffff
+        -->
+        <tr>
+                <th align="center"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=n9ylfVZKFE7pmQE6qSFIbX0a9NJsyKBD3BMX2cdNxS8"></script>
+                </th>
+                <!--<th>visits since 15/04/2019&nbsp;&nbsp;&nbsp;
+                <img src="http://www.clustrmaps.com/map_v2.png?d=c0iE23T-kE1Z77RydQ1UoeK1VAiMMSYMmQ2R2rgt6Mk&cl=ffffff" width="300" height="200">
+                Last updated on 15/02/2019</th>-->
+        </tr>
+        <tr>
+            <th>©2023 Cen Zhang. All rights reserved</th>
+        </tr>
+  </table>
+</div>
