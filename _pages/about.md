@@ -32,8 +32,8 @@ Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysr
 
 ---
 
-<div class="footer" style="height: 200px; width: 200px; padding-left: 6px; font-weight: bold; color: #000000; text-align: center; font-size: 1.5em;">
-  <table align="center">
+<div class="footer" style="padding-left: 6px; font-weight: bold; color: #000000; text-align: center; font-size: 1.5em;">
+  <table align="center" style="height: 200px; width: 200px;">
         <!--
          style="display: none"
          //www.clustrmaps.com/map_v2.png?d=c0iE23T-kE1Z77RydQ1UoeK1VAiMMSYMmQ2R2rgt6Mk&cl=ffffff
