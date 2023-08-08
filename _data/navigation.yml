@@ -1,10 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /pubs/
 
   - title: "Awards"
     url: /awards/    
+
+  - title: "Public Services"
+    url: /pubsrvs/
 
   - title: "CV"
     url: /cv/
