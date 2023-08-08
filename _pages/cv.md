@@ -8,8 +8,6 @@ redirect_from:
   - /resume.html
 ---
 
-{% include base_path %}
-
 You can find my CV from [here](http://cenzhang.github.io/files/cenzhang-cv.pdf).
 
 ---
