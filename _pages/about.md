@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Cen Zhang"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# ABOUT
 
 ---
 
@@ -19,7 +17,7 @@ In the near future, I plan to explore more possibilities on vulnerability detect
 In the long run, I'm eager to build more cool things!
 Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysren) since March 2023, and also working as Project Co-Investigator for some projects.
 
-# NEWS
+# News
 
 ---
 
