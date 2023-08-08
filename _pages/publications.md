@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-<p><a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>&nbsp; Yi Liu, Yuekang Li, Gelei Deng, Yao Du, <font color="blue">Cen Zhang</font>, Chengwei Liu, Yeting Li, Lei Ma, Yang Liu. Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers, ASE 2023.
+<p><a class="media" href="" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yi Liu, Yuekang Li, Gelei Deng, Yao Du, <font color="blue">Cen Zhang</font>, Chengwei Liu, Yeting Li, Lei Ma, Yang Liu. Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers, ASE 2023.
 <p><a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>&nbsp; Yao Zhang, Xiaofei Xie, Yi Li, Sen Chen, <font color="blue">Cen Zhang</font>, Xiaohong Li. EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software, ASE 2023.
 <p><a class="media" href="files/Rengar-ieeesp-2023.pdf" target="_blank"><img src="./images/pdf.png"></a>&nbsp; Xinyi Wang*, <font color="blue">Cen Zhang*</font>, Yeting Li, Zhiwu Xu, Shuailin Huang, Yi Liu, Yican Yao, Yang Xiao, Yanyan Zou, Yang Liu, and Wei Huo. Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation, IEEE S&P 2023.
 <br>
@@ -38,9 +38,3 @@ author_profile: true
 <br>
 <p><a class="media" href="" target="_blank"><img src="./images/pdf.png"></a>&nbsp; Yuekang Li, Yinxing Xue, Hongxu Chen, Xiuheng Wu, <font color="blue">Cen Zhang</font>, Xiaofei Xie, Haijun Wang, and Yang Liu. Cerebro: context-aware adaptive fuzzing for effective vulnerability detection, ESEC/FSE 2019.
 <br>
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

@@ -11,10 +11,12 @@ redirect_from:
 ---
 
 I am a fourth-year Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
-My Ph.D works mainly center around building tools for detecting software vulnerabilities, including the Fuzz Driver Generation, Firmware Rehosting, and Binary Instrumentation.
+
+My Ph.D works mainly center around building tools for detecting software vulnerabilities, including the **Fuzz Driver Generation**, **Firmware Rehosting**, and **Binary Instrumentation**.
 They worked by enabling the fuzz testing on the targets that cannot be effectively applied before.
 In the near future, I plan to explore more possibilities on vulnerability detection, such as modeling new kinds of vulnerbilities, exploring LLM-assisted approaches, etc.
 In the long run, I'm eager to build more cool things!
+
 Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysren) since March 2023, and also working as Project Co-Investigator for some projects.
 
 # News
