@@ -39,11 +39,10 @@ Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysr
          //www.clustrmaps.com/map_v2.png?d=c0iE23T-kE1Z77RydQ1UoeK1VAiMMSYMmQ2R2rgt6Mk&cl=ffffff
         -->
         <tr>
-                <th align="center"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qd22-Wpe7CUKe3FdY6eqGMd4TnBY6bmR9XIIyxh0TII"></script>
+                <th align="center">
+                <!--script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qd22-Wpe7CUKe3FdY6eqGMd4TnBY6bmR9XIIyxh0TII"></script-->
+                <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qd22-Wpe7CUKe3FdY6eqGMd4TnBY6bmR9XIIyxh0TII&cl=ffffff&w=a"></script>
                 </th>
-                <!--<th>visits since 15/04/2019&nbsp;&nbsp;&nbsp;
-                <img src="http://www.clustrmaps.com/map_v2.png?d=c0iE23T-kE1Z77RydQ1UoeK1VAiMMSYMmQ2R2rgt6Mk&cl=ffffff" width="300" height="200">
-                Last updated on 15/02/2019</th>-->
         </tr>
   </table>
 </div>
