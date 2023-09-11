@@ -16,6 +16,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <p>
 <a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yi Liu, Yuekang Li, Gelei Deng, Yao Du, <font color="blue">Cen Zhang</font>, Chengwei Liu, Yeting Li, Lei Ma, Yang Liu. Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers, ASE 2023.
+<font color="red">ACM Distinguished Paper Award</font>
 </p>
 
 <p>
