@@ -24,7 +24,7 @@ Currently, I am a Research Associate in [CYSREN@NTU](https://www.ntu.edu.sg/cysr
 ---
 
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; <font color="red">I'm in the job market!</font>
-- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; July 2023: Our paper "Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers" is accepted by ASE 2023 and won <font color="red">ACM Distinguished Paper Award</font>.
+- <img src="https://cenzhang.github.io/images/new.gif">&nbsp; July 2023: Our paper "Aster: Automatic Speech Recognition System Accessibility Testing for Stutterers" is accepted by ASE 2023 and has won <font color="red">ACM Distinguished Paper Award</font>.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; July 2023: Our paper "EndWatch: A Practical Method for Detecting Non-Termination in Real-World Software" is accepted by ASE 2023.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; April 2023: Our paper "Effective ReDoS Detection by Principled Vulnerability Modeling and Exploit Generation" is accepted by IEEE S&P 2023.
 - <img src="https://cenzhang.github.io/images/new.gif">&nbsp; October 2022: Our paper "Automata-Guided Control-Flow-Sensitive Fuzz Driver Generation" is accepted by Usenix Security 2023.
