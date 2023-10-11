@@ -15,7 +15,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ---
 
 <p>
-<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yiming Liu, <font color="blue">Cen Zhang</font>, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo. Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware, ICSE 2024 <font color="blue">Acceptance Rate: 8% (65/808)</font>.
+<a class="media" href="https://cenzhang.github.io/404.html" target="_blank"><img src="https://cenzhang.github.io/images/pdf.png"></a>&nbsp; Yiming Liu, <font color="blue">Cen Zhang</font>, Feng Li, Yeting Li, Jianhua Zhou, Jian Wang, Lanlan Zhan, Yang Liu, Wei Huo. Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware, ICSE 2024. <font color="blue">Acceptance Rate: 8% (65/808)</font>
 </p>
 
 <p>
