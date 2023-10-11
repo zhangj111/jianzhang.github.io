@@ -10,7 +10,7 @@ redirect_from:
 
 ---
 
-I was Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
+I was a Ph.D student at the School of Computer Science and Engineering in Nanyang Technological University under the supervision of [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/).
 
 My Ph.D works mainly center around building tools for detecting software vulnerabilities, including the **Fuzz Driver Generation**, **Firmware Rehosting**, and **Binary Instrumentation**.
 They worked by enabling the fuzz testing on the targets that cannot be effectively applied before.
