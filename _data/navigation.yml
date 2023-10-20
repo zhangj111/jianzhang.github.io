@@ -9,8 +9,8 @@ main:
   - title: "Public Services"
     url: /publicservices/
 
-  - title: "Tools"
-    url: /tools/
+  # - title: "Tools"
+  #   url: /tools/
 
   - title: "CV"
     url: /cv/
