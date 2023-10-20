@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cen Zhang's (张岑) Homepage"
+title                    : "Jian Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Cen Zhang"
+name                     : &name "Jian Zhang (张建)"
 description              : &description "personal description"
-url                      : "https://cenzhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jianzhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cenzhang/cenzhang.github.io"
+repository               : "zhangj111/jianzhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cen Zhang"
-  avatar           : "cenzhang.jpg"
-  bio              : "Security Researcher"
+  name             : "Jian Zhang"
+  avatar           : "jianzhang.jpg"
+  bio              : "Research Fellow"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Vy2-YDoAAAAJ&hl=en"
-  email            : "blbllhy@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en"
+  email            : "zhangj3353@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "occia"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-5603-1322"
+  orcid            : "https://orcid.org/0000-0001-8316-1894"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhclhy"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
