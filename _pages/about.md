@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "张建"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -31,7 +31,7 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
         -->
         <tr>
                 <th align="center">
-                <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=qAz8a6vT9oDJttjE07NAse4pOKtmO3Q4B5x6UWO5P9k&cl=ffffff&w=a"></script>
+                <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qAz8a6vT9oDJttjE07NAse4pOKtmO3Q4B5x6UWO5P9k"></script>
                 </th>
         </tr>
   </table>
