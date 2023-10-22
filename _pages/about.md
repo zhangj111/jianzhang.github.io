@@ -17,7 +17,7 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 ---
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Sep 2023: Our paper "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" has won <img src="https://zhangj111.github.io/images/award.gif"><font color="red">ACM Distinguished Paper Award</font> in ASE 2023.
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Aug 2023: Our paper "RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness" is accepted to ICSE 2024.
-- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; July 2023: Our two papers "Learning to Locate and Describe Vulnerabilities" and "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" are accepted to ASE 2023.
+- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Jul 2023: Our two papers "Learning to Locate and Describe Vulnerabilities" and "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" are accepted to ASE 2023.
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; May 2023: Our paper "Detecting Condition-Related Bugs with Control Flow Graph Neural Network" is accepted to ISSTA 2023.
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Aug 2022: I joined Nanyang Technological University as a postdoctoral researcher.
 
