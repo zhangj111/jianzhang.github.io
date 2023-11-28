@@ -11,8 +11,11 @@ redirect_from:
 ---
 
 ### Program Committee or Reviewer
-
-+ International Symposium on Dependable Computing (PRDC 2023)
++ 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
++ The 2024 ACM Web Conference (WWW 2024)
++ 21st International Conference on Mining Software Repositories (MSR 2024)
++ 28th International Conference on Engineering of Complex Computer Systems (ICECCS 2024)
++ 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023)
 + Journal of Systems and Software (JSS), 2020
 
 
