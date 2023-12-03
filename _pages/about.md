@@ -16,9 +16,6 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 
 ---
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Nov 2023: I am thrilled and deeply honored to accept the invitation to join the Program Committee of ASE 2024! I encourage all SE researchers to submit high-quality papers and contribute to this top-tier conference!
-- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Nov 2023: I am honored to accept the invitation to join the Program Committee of MSR 2024!
-- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Oct 2023: I am honored to accept the invitation to join the Program Committee of ICECCS 2024!
-- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Oct 2023: I am delighted to announce my role as a reviewer for WWW 2024!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Sep 2023: Our paper "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" has won <img src="https://zhangj111.github.io/images/award.gif"><font color="red">ACM Distinguished Paper Award</font> in ASE 2023.
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Aug 2023: Our paper "RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness" is accepted to ICSE 2024.
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Jul 2023: Our two papers "Learning to Locate and Describe Vulnerabilities" and "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" are accepted to ASE 2023.
