@@ -15,6 +15,8 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 ### News
 
 ---
+- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Dec 2023: Our paper "An Empirical Study on Noisy Label Learning for Program Understanding" is accepted to ICSE 2024. Congrats to Wenhan!
+- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Dec 2023: I am hornored to serve as a PC Member of the First International Workshop on Large Language Models for Code (LLM4Code)!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Nov 2023: I am thrilled and deeply honored to accept the invitation to join the Program Committee of ASE 2024! I encourage all SE researchers to submit high-quality papers and contribute to this top-tier conference!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Sep 2023: Our paper "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" has won <img src="https://zhangj111.github.io/images/award.gif"><font color="red">ACM Distinguished Paper Award</font> in ASE 2023.
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Aug 2023: Our paper "RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness" is accepted to ICSE 2024.
