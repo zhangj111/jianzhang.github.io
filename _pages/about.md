@@ -25,13 +25,11 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 - Aug 2022: I joined Nanyang Technological University as a postdoctoral researcher.
 
 ---
-
+<!--
 <div class="footer" style="padding-left: 6px; font-weight: bold; color: #000000; text-align: center; font-size: 1.5em;">
   <table align="center" style="height: 100px; width: 100px;">
-        <!--
          style="display: none"
          //www.clustrmaps.com/map_v2.png?d=c0iE23T-kE1Z77RydQ1UoeK1VAiMMSYMmQ2R2rgt6Mk&cl=ffffff
-        -->
         <tr>
                 <th align="center">
                 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=qAz8a6vT9oDJttjE07NAse4pOKtmO3Q4B5x6UWO5P9k"></script>
@@ -39,5 +37,5 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
         </tr>
   </table>
 </div>
+-->
 
----
