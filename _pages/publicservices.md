@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 ### Program Committee or Reviewer
++ The First International Workshop on Large Language Models for Code (LLM4Code 2024)
 + 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
 + The 2024 ACM Web Conference (WWW 2024)
 + 21st International Conference on Mining Software Repositories (MSR 2024)
@@ -18,8 +19,3 @@ redirect_from:
 + 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023)
 + Journal of Systems and Software (JSS), 2020
 
-
-### External Reviewer
-
-- Conferences: ICSE 2024, Asia CCS 2024, ASE 2023, FSE 2023, WWW 2023, ICML 2021, MSR 2021, ICSE 2021, ASE 2020, MSR 2020
-- Journals: TSE 2023, JSS 2019 
