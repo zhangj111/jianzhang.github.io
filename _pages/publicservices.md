@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 ### Program Committee or Reviewer
++ The 40th Annual Computer Security Applications Conference (ACSAC 2024)
 + The First International Workshop on Large Language Models for Code (LLM4Code 2024)
 + 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)
 + The 2024 ACM Web Conference (WWW 2024)
