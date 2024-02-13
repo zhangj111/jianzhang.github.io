@@ -15,6 +15,7 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 ### News
 
 ---
+- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Feb 2024: I am hornored to serve as a PC Member of the 40th Annual Computer Security Applications Conference (ACSAC 2024)!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Jan 2024: Our paper "BadEdit: Backdooring Large Language Models by Model Editing" is accepted to ICLR 2024. Congrats to Yanzhou!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Dec 2023: Our paper "An Empirical Study on Noisy Label Learning for Program Understanding" is accepted to ICSE 2024. Congrats to Wenhan!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Dec 2023: I am hornored to serve as a PC Member of the First International Workshop on Large Language Models for Code (LLM4Code)!
