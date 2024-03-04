@@ -10,7 +10,7 @@ redirect_from:
   - /publications.html
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">my Google Scholar profile</a>.</u> <i>(* for corresponding author)</i>
+You can also find my articles on <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">my Google Scholar profile</a>. <i>(* for corresponding author)</i>
 
 ---
 <li> Yanzhou Li, Kangjie Chen, Tianlin Li, <font color="blue">Jian Zhang</font>, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu. "BadEdit: Backdooring Large Language Models by Model Editing". Twelfth International Conference on Learning Representations, ICLR 2024.
