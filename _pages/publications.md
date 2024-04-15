@@ -24,7 +24,8 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    46th International Conference on Software Engineering, ICSE 2024. [\[PDF\]](http://zhangj111.github.io/files/ICSE24_RUNNER.pdf)
 1. **An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair**  
    Kai Huang, Xiangxin Meng, **Jian Zhang**\*, Yang Liu, Wenjie Wang, Shuhao Li, Yuqing Zhang\*  
-   38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [\[PDF\]](http://zhangj111.github.io/files/ASE23_APR_Study.pdf)  
+   38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [\[PDF\]](http://zhangj111.github.io/files/ASE23_APR_Study.pdf)
+   
    <font color="red">ACM SIGSOFT Distinguished Paper Award</font>
 1. **Learning to Locate and Describe Vulnerabilities**  
    **Jian Zhang**, Shangqing Liu, Xu Wang, Li Tianlin, Yang Liu  
