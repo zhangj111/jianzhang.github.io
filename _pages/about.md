@@ -15,6 +15,7 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 ### News
 
 ---
+- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Mar 2024: I am hornored to serve as a PC Member of the APSEC ERA - Early Research Achievements-track!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Feb 2024: Our paper "Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning" is accepted to SIGMOD 2024. Congrats to Anran!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Feb 2024: I am hornored to serve as a PC Member of the 40th Annual Computer Security Applications Conference (ACSAC 2024)!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Jan 2024: Our paper "BadEdit: Backdooring Large Language Models by Model Editing" is accepted to ICLR 2024. Congrats to Yanzhou!
