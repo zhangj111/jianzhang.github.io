@@ -18,7 +18,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    Twelfth International Conference on Learning Representations, ICLR 2024.
 1. **An Empirical Study on Noisy Label Learning for Program Understanding**  
    Wenhan Wang, Yanzhou Li, Anran Li, **Jian Zhang**, Wei Ma, Yang Liu  
-   46th International Conference on Software Engineering, ICSE 2024  
+   46th International Conference on Software Engineering, ICSE 2024.  
 1. **RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness**  
    Tianlin Li, Yue Cao, **Jian Zhang**\*, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu  
    46th International Conference on Software Engineering, ICSE 2024. [\[PDF\]](http://zhangj111.github.io/files/ICSE24_RUNNER.pdf)
