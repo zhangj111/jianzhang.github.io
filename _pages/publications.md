@@ -13,6 +13,9 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning**  
+   Anran Li, Yuanyuan Chen, **Jian Zhang**\*, Mingfei Cheng, Yihao Huang, Yueming Wu, Anh Tuan Luu, Han Yu*  
+   ACM SIGMOD International Conference on Management of Data, SIGMOD 2024.
 1. **BadEdit: Backdooring Large Language Models by Model Editing**  
    Yanzhou Li, Kangjie Chen, Tianlin Li, **Jian Zhang**, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu  
    Twelfth International Conference on Learning Representations, ICLR 2024.
