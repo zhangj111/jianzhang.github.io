@@ -13,6 +13,18 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**  
+   Wei Ma, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, Shangqing Liu, **Jian Zhang**, Yue Xue, Yang Liu  
+   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.  
+1. **TIGER: A Generating-Then-Ranking Framework for Practical Python Type Inference**  
+   Chong Wang, **Jian Zhang**\*, Yiling Lou, Mingwei Liu, Weisong Sun, Yang Liu, Xin Peng  
+   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.
+1. **Template-Guided Program Repair in the Era of Large Language Models**  
+   Kai Huang, **Jian Zhang**\*, Xiangxin Meng, Yang Liu  
+   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.
+1. **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**  
+   Kaixuan Li, **Jian Zhang**\*, Sen Chen, Han Liu, Yang Liu, Yixiang Chen  
+   33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024.
 1. **Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning**  
    Anran Li, Yuanyuan Chen, **Jian Zhang**\*, Mingfei Cheng, Yihao Huang, Yueming Wu, Anh Tuan Luu, Han Yu*  
    ACM SIGMOD International Conference on Management of Data, SIGMOD 2024.
