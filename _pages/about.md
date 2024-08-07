@@ -15,6 +15,7 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 ### News
 
 ---
+- <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Aug 2024: Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" is accepted to ASE 2024. 
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Jul 2024: Our three papers on "Python Type Inference", "Automated Program Repair", and "Smart Contract Auditing" are accepted to ICSE 2025. Congrats to all the co-authors!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Jul 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" is accepted to ISSTA 2024. Congrats to Kaixuan!
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Mar 2024: I am hornored to serve as a PC Member of the APSEC ERA - Early Research Achievements-track!
