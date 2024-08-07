@@ -13,6 +13,9 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair**  
+   **Jian Zhang**, Chong Wang, Anran Li, Wenhan Wang, Tianlin Li, Yang Liu  
+   39th IEEE/ACM International Conference on Automated Software Engineering, ASE 2024.  
 1. **Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**  
    Wei Ma, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, Shangqing Liu, **Jian Zhang**, Yue Xue, Yang Liu  
    47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.  
