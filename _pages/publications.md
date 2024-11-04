@@ -15,7 +15,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 ---
 1. **VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair**  
    **Jian Zhang**, Chong Wang, Anran Li, Wenhan Wang, Tianlin Li, Yang Liu  
-   39th IEEE/ACM International Conference on Automated Software Engineering, ASE 2024.  
+   39th IEEE/ACM International Conference on Automated Software Engineering, ASE 2024. [\[PDF\]](http://zhangj111.github.io/files/ASE24_VulAdvisor.pdf)
 1. **Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**  
    Wei Ma, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, Shangqing Liu, **Jian Zhang**, Yue Xue, Yang Liu  
    47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.  
@@ -24,7 +24,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.
 1. **Template-Guided Program Repair in the Era of Large Language Models**  
    Kai Huang, **Jian Zhang**\*, Xiangxin Meng, Yang Liu  
-   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.
+   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025. [\[PDF\]](http://zhangj111.github.io/files/ICSE25_NTR.pdf)
 1. **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**  
    Kaixuan Li, **Jian Zhang**\*, Sen Chen, Han Liu, Yang Liu, Yixiang Chen  
    33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024.
